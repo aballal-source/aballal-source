@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **The One Piece is real.**
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aballal-source&" alt="aballal-source" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aballal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aballal" height="30" width="40" /></a>
@@ -26,7 +28,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/9ballal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="9ballal" /></a></p><br><br>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aballal-source&" alt="aballal-source" /></p>
 
