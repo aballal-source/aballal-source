@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **building cool apps, APIs, and training models**
 
-- 🤝 I’m looking for help with **landing a role as a Software Engineer**
+- 🤝 I’m looking to **land a role as a Software Engineer!**
 
 - 💬 Ask me about **AI/Machine Learning, The One Piece**
 
