@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to use and make AI APIs**
 
-- 👯 I’m looking to collaborate on **building apps, training models**
+- 👯 I’m looking to collaborate on **building apps, APIS, and training models**
 
 - 🤝 I’m looking for help with **landing a role as a Software Engineer**
 
