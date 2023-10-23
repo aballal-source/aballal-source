@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmedtballal@gmail.com**
 
-- ⚡ Fun fact **The One Piece is real.**
+- ⚡ Fun fact **The One Piece is real!**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aballal-source&" alt="aballal-source" /></p>
 
