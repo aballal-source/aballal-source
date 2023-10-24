@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmedtballal@gmail.com**
 
-- ⚡ Fun fact **The One Piece is real!**
+- ⚡ Fun fact **Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. The natural composition of honey, with its low water content and high acidity, creates an environment that inhibits the growth of bacteria and microorganisms, making it one of the few foods that can last indefinitely.**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aballal-source&" alt="aballal-source" /></p>
 
