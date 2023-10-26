@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmedtballal@gmail.com**
 
-- ⚡ Fun fact **The Eiffel Tower can be 15 cm (6 inches) taller during the summer. When a substance is heated up, its particles move more and it expands. As a result, the iron structure of the Eiffel Tower expands in the heat of the summer, causing it to grow slightly taller.**
+- ⚡ Fun fact **Hummingbirds are the only birds that can fly backward. Their wings move in a figure-eight pattern, allowing them to hover, move forward, backward, and even upside down. This remarkable ability makes them agile and efficient pollinators.**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aballal-source&" alt="aballal-source" /></p>
 
