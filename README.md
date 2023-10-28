@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmedtballal@gmail.com**
 
-- ⚡ Fun fact **Hummingbirds are the only birds that can fly backward. Their wings move in a figure-eight pattern, allowing them to hover, move forward, backward, and even upside down. This remarkable ability makes them agile and efficient pollinators.**
+- ⚡ Fun fact **The shortest war in history lasted only 38 minutes. It occurred between the countries of Britain and Zanzibar on August 27, 1896.**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aballal-source&" alt="aballal-source" /></p>
 
