@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ballal</h1>
-<h3 align="center">A computer science graduate from California State University, San Francisco, passionate about AI and Machine Learning.</h3>
+<h3 align="center">A computer science graduate from California State University, San Francisco, passionate about software development and AI/ML.</h3>
 
-- 🔭 I’m currently working on [data structures & algorithms!](https://leetcode.com/)
+- 🔭 I’m currently working on [something cool!](https://leetcode.com/)
 
-- 🌱 I’m currently learning **how to use and make AI APIs**
+- 🌱 I’m currently learning **how to build fullstack projects**
 
-- 👯 I’m looking to collaborate on **building cool apps, APIs, and training models**
+- 👯 I’m looking to collaborate on **building cool apps, APIs, training models**
 
-- 🤝 I’m looking to **land my first role as a Software Engineer!**
+- 🤝 I’m looking to **land my first Software Engineering role!**
 
-- 💬 Ask me about **AI/Machine Learning, The One Piece**
+- 💬 Ask me about **AI/Machine Learning**
 
 - 📫 How to reach me **ahmedtballal@gmail.com**
 
-- ⚡ Fun fact **The shortest war in history lasted only 38 minutes. It occurred between the countries of Britain and Zanzibar on August 27, 1896.**
+- ⚡ Fun fact **The computing power of the Apollo 11 spacecraft that landed on the moon in 1969 is estimated to be less than that of a modern-day smartphone. The spacecraft's computer, which guided the mission and performed calculations, had less processing power and memory than many present-day consumer electronic devices, showcasing the incredible advancements in technology over the years.**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aballal-source&" alt="aballal-source" /></p>
 
