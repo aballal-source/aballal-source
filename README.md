@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [something cool!](https://auraframe.netlify.app/)
 
-- 🌱 I’m currently learning **how to build fullstack projects**
+- 🌱 I’m learning **how to build fullstack AI projects**
 
 - 👯 I’m looking to collaborate on **building cool apps, APIs, training models**
 
