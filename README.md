@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ballal</h1>
 <h3 align="center">A computer science graduate from California State University, San Francisco, passionate about software development and AI/ML.</h3>
 
-- 🔭 I’m currently working on [something cool!](https://leetcode.com/)
+- 🔭 I’m currently working on [something cool!]([(https://auraframe.netlify.app/))
 
 - 🌱 I’m currently learning **how to build fullstack projects**
 
