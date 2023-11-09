@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **building cool apps, APIs, training models**
 
-- 🤝 I’m looking to **land my first Software Engineering role!**
+- 🤝 I’m looking to **land my Software Engineering dream job**
 
-- 💬 Ask me about **AI/Machine Learning**
+- 💬 Ask me about **RESTful applications, AI/Machine Learning**
 
 - 📫 How to reach me **ahmedtballal@gmail.com**
 
