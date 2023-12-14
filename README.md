@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning **how to solve problems**
 
-- 👯 I’m looking to collaborate on **open source projects, APIs, and training models**
+- 👯 I’m looking to collaborate on **open source projects, building APIs, and training models**
 
 - 🤝 I’m looking to **land my Software Engineering dream job**
 
