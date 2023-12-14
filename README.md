@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [something cool!](https://auraframe.netlify.app/)
 
-- 🌱 I’m learning **how to build fullstack AI projects**
+- 🌱 I’m learning **how to solve problems**
 
-- 👯 I’m looking to collaborate on **building cool apps, APIs, training models**
+- 👯 I’m looking to collaborate on **open source projects, APIs, and training models**
 
 - 🤝 I’m looking to **land my Software Engineering dream job**
 
 - 💬 Ask me about **RESTful applications, AI/Machine Learning**
 
-- 📫 How to reach me **ahmedtballal@gmail.com**
+- 📫 How to reach me **ahmed.ballal@abcompsci.com**
 
 - ⚡ Fun fact **"The computing power of the Apollo 11 spacecraft that landed on the moon in 1969 is estimated to be less than that of a modern-day smartphone. The spacecraft's computer, which guided the mission and performed calculations, had less processing power and memory than many present-day consumer electronic devices, showcasing the incredible advancements in technology over the years." - ChatGPT**
 
