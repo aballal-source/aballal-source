@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects, building APIs, and training models**
 
-- 🤝 I’m looking to **learn from experienced Software Engineers**
+- 🤝 I’m looking to **learn from/with experienced Software Engineers**
 
 - 💬 Ask me about **RESTful applications, AI/Machine Learning**
 
