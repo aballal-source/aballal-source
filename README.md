@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ballal</h1>
-<h3 align="center">A computer science graduate from California State University, San Francisco, passionate about software development and AI/ML.</h3>
+<h3 align="center">A passionate Software Engineer with a Bachelor of Science degree in Computer Science from California State University, San Francisco.</h3>
 
 - 🔭 I’m currently working on [something cool!](https://auraframe.netlify.app/)
 
