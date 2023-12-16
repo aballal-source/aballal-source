@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ballal</h1>
-<h3 align="center">A passionate Software Engineer with a Bachelor of Science degree in Computer Science from California State University, San Francisco.</h3>
+<h3 align="center">A passionate Software Engineer with nearly 10 years of development experience in and out of university.</h3>
 
 - 🔭 I’m currently working on [something cool!](https://auraframe.netlify.app/)
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects, building APIs, and training models**
 
-- 🤝 I’m looking to **learn from/with experienced Software Engineers**
+- 🤝 I’m looking to **learn from and with experienced Software Engineers**
 
 - 💬 Ask me about **RESTful applications, AI/Machine Learning**
 
