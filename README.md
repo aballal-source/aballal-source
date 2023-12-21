@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [something cool!](https://auraframe.netlify.app/)
 
-- 🌱 I’m learning **how to solve problems**
+- 🌱 I’m learning **new ways to solve complex problems**
 
 - 👯 I’m looking to collaborate on **open source projects, building APIs, and training models**
 
