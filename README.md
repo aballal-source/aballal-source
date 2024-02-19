@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ballal</h1>
 <h3 align="center">A passionate Software Engineer with nearly 10 combined years of development experience in and outside of university!</h3>
 
-- 🔭 I’m currently working on [something cool!](https://auraframe.netlify.app/)
+- 🔭 I’m currently working on [something cool!](https://ahmedballal.com)
 
 - 🌱 I’m learning **new ways to solve complex problems**
 
