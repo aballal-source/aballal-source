@@ -5,9 +5,9 @@
 
 - 🌱 I’m learning **new ways to solve complex problems**
 
-- 👯 I’m looking to collaborate on **open source projects, building APIs, and training models**
+- 👯 I’m looking to collaborate on **open source projects, building APIs, training Large Language Models, etc.**
 
-- 🤝 I’m looking to **learn, from and with, experienced Software Engineers**
+- 🤝 I’m looking to **learn, from and with experienced Software Engineers**
 
 - 💬 Ask me about **RESTful applications, AI/Machine Learning**
 
