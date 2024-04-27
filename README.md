@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **RESTful applications, AI/Machine Learning**
 
-- 📫 How to reach me **dev@ahmedballal.com**
+- 📫 How to reach me **ahmedtballal@gmail.com**
 
 - ⚡ Fun fact **"The computing power of the Apollo 11 spacecraft that landed on the moon in 1969 is estimated to be less than that of a modern-day smartphone. The spacecraft's computer, which guided the mission and performed calculations, had less processing power and memory than many present-day consumer electronic devices, showcasing the incredible advancements in technology over the years." - ChatGPT**
 
