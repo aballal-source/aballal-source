@@ -5,11 +5,11 @@
 
 - 🌱 I’m learning **new ways to solve complex problems**
 
-- 👯 I’m looking to collaborate on **open source projects, building APIs, training Large Language Models, etc.**
+- 👯 I’m looking to collaborate on **technical projects.**
 
-- 🤝 I’m looking to **learn, from and with experienced Software Engineers**
+- 🤝 I’m looking to **leverage my programming skills skills in [Java, C++, or Python] to contribute to a dynamic team**
 
-- 💬 Ask me about **RESTful applications, AI/Machine Learning**
+- 💬 Ask me about **Web Development, Mobile App Development, AI/Machine Learning**
 
 - 📫 How to reach me **ahmedtballal@gmail.com**
 
