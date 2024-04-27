@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [something cool!](https://ahmedballal.com)
 
-- 🌱 I’m learning **new ways to solve complex problems**
+- 🌱 I’m learning **various programming languages and frameworks, including Python, React.js, and Node.js, to enhance my skills and stay updated with industry trends. Additionally, I'm exploring advanced topics in data analysis and machine learning to broaden my expertise and contribute meaningfully to innovative projects.**
 
-- 👯 I’m looking to collaborate on **technical projects.**
+- 👯 I’m looking to collaborate on **projects that allow me to apply my expertise in software development and contribute to solving meaningful problems. I'm particularly interested in opportunities where I can work with a diverse team to develop innovative solutions and make a positive impact.**
 
-- 🤝 I’m looking to **leverage my programming skills skills in Java, C++, or Python to contribute to a dynamic team and make a positive impact**
+- 🤝 I’m looking to **leverage my programming skills skills in Java, C++, or Python to contribute to a dynamic team and make a positive impact.**
 
-- 💬 Ask me about **Web Development, Mobile App Development, AI/Machine Learning**
+- 💬 Ask me about **Python, Java, and JavaScript, as well as frameworks like React.js and Node.js. I also have experience with web development technologies such as HTML, CSS, and SQL. Additionally, I'm familiar with cloud platforms like AWS and have a solid understanding of software development methodologies and best practices. Beyond technical skills, I bring strong problem-solving abilities, effective communication, and a collaborative mindset to any team I work with.**
 
 - 📫 How to reach me **ahmedtballal@gmail.com**
 
