@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **technical projects.**
 
-- 🤝 I’m looking to **leverage my programming skills skills in [Java, C++, or Python] to contribute to a dynamic team**
+- 🤝 I’m looking to **leverage my programming skills skills in Java, C++, or Python to contribute to a dynamic team and make a positive impact**
 
 - 💬 Ask me about **Web Development, Mobile App Development, AI/Machine Learning**
 
