@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ballal</h1>
-<h3 align="center">A passionate Software Engineer with nearly 10 combined years of development experience in and outside of university!</h3>
+<h3 align="center">An Emerging Software Engineer With a Bachelor's of Science Degree in Computer Science from San Francisco State University.</h3>
 
 - 🔭 I’m currently working on [something cool!](https://ahmedballal.com)
 
