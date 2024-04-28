@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects that allow me to apply my expertise in software development and contribute to solving meaningful problems. I'm particularly interested in opportunities where I can work with a diverse team to develop innovative solutions and make a positive impact.**
 
-- 🤝 I’m looking to **leverage my programming skills skills in Java, C++, or Python to contribute to a dynamic team and make a positive impact.**
+- 🤝 I’m looking to **leverage my skills and expertise in software development to contribute to innovative projects and collaborate with a dynamic team. I'm excited about opportunities that allow me to apply my problem-solving abilities and creativity to address challenges in the technology industry. Ultimately, I aim to continuously grow and develop professionally while making a meaningful impact within tech-focused companies or startups.**
 
 - 💬 Ask me about **Python, Java, and JavaScript, as well as frameworks like React.js and Node.js. I also have experience with web development technologies such as HTML, CSS, and SQL. Additionally, I'm familiar with cloud platforms like AWS and have a solid understanding of software development methodologies and best practices. Beyond technical skills, I bring strong problem-solving abilities, effective communication, and a collaborative mindset to any team I work with.**
 
