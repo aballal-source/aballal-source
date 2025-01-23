@@ -47,7 +47,7 @@ const ahmed = {
 
 ## GitHub Stats 📈
 ![Ahmed's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aballal-source&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=aballal-source&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aballal-source&theme=radical)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aballal-source&layout=compact&theme=radical)
 
 
