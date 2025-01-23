@@ -46,9 +46,9 @@ const ahmed = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## GitHub Stats 📈
-![Ahmed's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aballal-source&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aballal-source&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aballal-source&layout=compact&theme=radical)
 
 
 ## Let's Connect! 🤝
