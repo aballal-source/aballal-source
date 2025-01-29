@@ -9,7 +9,7 @@ Software Engineer passionate about building efficient, scalable applications. Cu
 
 ```javascript
 const ahmed = {
-    location: "El Dorado Hills, CA",
+    location: "California",
     currentFocus: "Building Full-Stack Applications",
     technologies: {
         frontend: ["React", "Next.js", "TailwindCSS"],
