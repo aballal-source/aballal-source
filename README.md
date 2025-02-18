@@ -10,7 +10,7 @@ Software Engineer passionate about building efficient, scalable applications. Cu
 ```javascript
 const ahmed = {
     location: "California",
-    currentFocus: "Building Full-Stack Applications",
+    currentFocus: "Building Full-Stack Applications, Learning Embedded/AI systems",
     technologies: {
         frontend: ["React", "Next.js", "TailwindCSS"],
         backend: ["Node.js", "Express", "PostgreSQL"],
