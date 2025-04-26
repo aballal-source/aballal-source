@@ -32,7 +32,7 @@ const ahmed = {
 - Frontend barbershop website and management system
 - React, Node.js, TypeScript, Tailwind CSS
 - Responsive components, real-time booking, essential barbershop features
-- [Barberjons.com]
+- Barberjons.com
 
 
 ## Technical Skills 🔧
