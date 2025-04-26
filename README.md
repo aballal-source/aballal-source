@@ -1,7 +1,7 @@
 # Ahmed Ballal 👨🏾‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aballal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-v3-z1yp.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-r74y.vercel.app/#)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aballal-source)
 
 ## About Me 🚀
@@ -26,17 +26,14 @@ const ahmed = {
 - Next.js 14, TypeScript, TailwindCSS
 - Modern, responsive design
 - [In Development]
+- https://portfolio-r74y.vercel.app/#projects-section
 
-### 💻 DevConnect
-- Full-stack social platform for developers
-- React, Node.js, PostgreSQL
-- Real-time messaging features
-- [In Development]
+### 💻 World Famous Barber Jons
+- Frontend barbershop website and management system
+- React, Node.js, TypeScript, Tailwind CSS
+- Responsive components, real-time booking, essential barbershop features
+- [Barberjons.com]
 
-### 📊 MetricsDash
-- Real-time analytics dashboard
-- D3.js data visualization
-- [Coming Soon]
 
 ## Technical Skills 🔧
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,7 +49,7 @@ const ahmed = {
 
 ## Let's Connect! 🤝
 - 💼 [LinkedIn](https://linkedin.com/in/aballal)
-- 🌐 [Portfolio](https://portfolio-v3-z1yp.vercel.app/)
+- 🌐 [Portfolio](https://portfolio-r74y.vercel.app/#projects-section)
 - 📧 [Email](mailto:ahmedtballal@gmail.com)
 
 ---
