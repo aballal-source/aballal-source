@@ -1,32 +1,37 @@
 # Ahmed Ballal 👨🏾‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aballal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-r74y.vercel.app/#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://aballal.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aballal-source)
 
 ## About Me 🚀
-Software Engineer passionate about building efficient, scalable applications. Currently focusing on full-stack development and modern web technologies.
+Software Engineer building efficient, scalable applications. Currently focusing on full-stack development and modern web technologies.
 
 ```javascript
 const ahmed = {
     location: "California",
     currentFocus: "Building Full-Stack Applications, Continuous Learning (AI/ML), APIs",
     technologies: {
-        frontend: ["React", "Next.js", "TailwindCSS"],
+        frontend: ["React", "Next.js", "Tailwind"],
         backend: ["Node.js", "Express", "PostgreSQL"],
-        languages: ["TypeScript", "JavaScript", "Java"],
-        currentlyLearning: ["System Design", "AWS", "Data Structures"]
+        languages: ["TypeScript", "JavaScript", "Java", "Python"],
+        currentlyLearning: ["QA", "System Design", "AI", "Data Structures"]
     }
 };
 ```
 
 ## Current Projects 🛠️
 
+### 🐛 BugHunt
+- Crowdsourced Game Bug Reporting Platform
+- React Frontend (Vite) | FastAPI Backend | PostgreSQL (Docker)
+- [In Development]
+  
 ### 🌐 Portfolio Website
 - Next.js 14, TypeScript, TailwindCSS
 - Modern, responsive design
 - [In Development]
-- https://portfolio-r74y.vercel.app/#projects-section
+- https://aballal.dev
 
 ### 💻 World Famous Barber Jons
 - Frontend barbershop website and management system
@@ -49,7 +54,7 @@ const ahmed = {
 
 ## Let's Connect! 🤝
 - 💼 [LinkedIn](https://linkedin.com/in/aballal)
-- 🌐 [Portfolio](https://portfolio-r74y.vercel.app/#projects-section)
+- 🌐 [Portfolio](https://aballal.dev)
 - 📧 [Email](mailto:ahmedtballal@gmail.com)
 
 ---
